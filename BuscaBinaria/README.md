@@ -1,4 +1,4 @@
-Como compilar e executar o programa: \n
+Como compilar e executar o programa:
 
 1 - Abra o terminal na pasta do BuscaBinariaCEP.c
 
